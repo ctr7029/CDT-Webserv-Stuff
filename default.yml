@@ -1,7 +1,7 @@
 ---
 # Ryan Cheevers-Brown, 2022-09-09, rfc6058@rit.edu
 app_user: "greyteam"
-http_host: "highpixel"
+http_host: "CDT_Full_Mirror"
 http_conf: "highpixel.conf"
 http_port: "80/tcp"
 disable_default: true
