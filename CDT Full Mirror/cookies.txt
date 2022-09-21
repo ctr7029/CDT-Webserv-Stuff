@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hypixel.net	TRUE	/	FALSE	1999999999	xfNew_session	u6c5DSq4ZllxbBRAaqF_Yjbkkr6klc2N
+.hypixel.net	TRUE	/	FALSE	1999999999	xfNew_csrf	oouiuahInuOM5HYx
+.hypixel.net	TRUE	/	FALSE	1999999999	__cf_bm	Ein2CjzCjDWoFKewyT98I2rPIt1M3Si2bCRZ9XFs3yg-1663716509-0-AelhUPDU25EZFx79UG8jwfASMFXeqV437rD4ynlwXnnFCL31Dtpc8Ka4QrktVKNxLjRDtHB562Df5NFksRCpmNI=
+hypixel.net	TRUE	/	FALSE	1999999999	SameSite	None
+

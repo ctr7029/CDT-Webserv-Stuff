@@ -1,0 +1,74 @@
+---
+# Ryan Cheevers-Brown, 2022-09-09, rfc6058@rit.edu
+# Rev 1: Caleb Roggi, 2022-09-20, ctr7029@rit.edu 
+- hosts: centos
+  become: true
+  vars_files:
+    - default.yml
+
+  tasks:
+    - name: "test reachability"
+      ping:
+
+      #Install prerequisite package (aptitude)
+    #- name: "Install Prerequisites"
+    #  apt: name=aptitude update_cache=yes state=latest force_apt_get=yes
+
+    #deleted UFW update
+
+    #Install the web server
+    - name: "Install Apache"
+      yum: 
+        name: httpd
+        state: present 
+
+    # Create http file directory, set permissions
+    - name: "Create document root"
+      file:
+        path: "/var/www/{{ http_host }}"
+        state: directory
+        owner: "{{ app_user }}"
+        mode: "0755"
+
+      #Copy test page from the host to the target, place in correct directory
+    - name: "Copy index test page"
+      template:
+        src: "."
+        dest: "/var/www/{{ http_host }}"
+
+      #Copy over Apache config from host to target
+    - name: "Set up Apache virtualHost"
+      template:
+        src: "files/apache.conf.j2"
+        dest: "/etc/httpd/sites-available/{{ http_conf }}"
+
+      #Enable the test site on apache, according to default.yml
+    - name: "Enable new site"
+      shell: /usr/sbin/a2ensite {{ http_conf }}
+      notify: Reload Apache
+
+    #Disable the default test site on remote apache
+    - name: "Disable default Apache site"
+      shell: /usr/sbin/a2dissite 000-default.conf
+      when: disable_default
+      notify: Reload Apache
+
+    #Open port 80 for HTTP traffic to the host
+    - name: "Firewalld - Allow HTTP on port {{ http_port }}"
+      firewalld:
+        port: "{{ http_port }}"
+        permanent: yes
+        state: Enabled
+
+  handlers:
+    # post-install, apache needs to have the config reloaded to actually serve the new site
+    - name: "Reload Apache"
+      service:
+        name: httpd
+        state: reloaded
+
+    #Restart the web server - always a good idea to do this after a reconfiguration
+    - name: "Restart Apache"
+      service:
+        name: httpd
+        state: restarted

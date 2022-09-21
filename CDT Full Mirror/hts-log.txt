@@ -1,0 +1,204 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 Sep 2022 19:20:03 at https://hypixel.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hypixel.net -O1 "D:\HypixelCopy\CDT Full Mirror" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:21:04	Error: 	"Not Found" (404) at link https://hypixel.net/play/#games (from https://hypixel.net/)
+19:21:38	Warning: 	See Other for https://hypixel.net/whats-new/posts/
+19:21:38	Warning: 	File has moved from https://hypixel.net/whats-new/posts/ to https://hypixel.net/whats-new/posts/3746356/
+19:21:38	Error: 	"Too Many Requests" (429) at link https://hypixel.net/search/?type=post (from https://hypixel.net/)
+19:22:07	Error: 	"Too Many Requests" (429) at link https://hypixel.net/search/ (from https://hypixel.net/)
+19:22:07	Warning: 	Moved Permanently for https://hypixel.net/threads/4307249/
+19:22:07	Warning: 	File has moved from https://hypixel.net/threads/4307249/ to https://hypixel.net/threads/hypixel-now-supports-minecraft-1-17.4307249/
+19:25:09	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/pensul.78899/ (from https://hypixel.net/)
+19:25:38	Error: 	"Forbidden" (403) at link https://hypixel.net/members/hypixel-team.377696/ (from https://hypixel.net/)
+19:25:39	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/skywars-bug-fixes-qol-balancing-update.5077132/ (from https://hypixel.net/)
+19:27:39	Warning: 	Moved Permanently for https://hypixel.net/posts/36735364/
+19:27:39	Warning: 	File has moved from https://hypixel.net/posts/36735364/ to https://hypixel.net/threads/about-the-slime-minion-setups.5117345/#post-36735364
+19:27:54	Warning: 	Moved Permanently for https://hypixel.net/posts/36735326/
+19:27:54	Warning: 	File has moved from https://hypixel.net/posts/36735326/ to https://hypixel.net/threads/why-did-i-get-6-ore-from-one-block.5117342/#post-36735326
+19:28:05	Warning: 	Moved Permanently for https://hypixel.net/posts/36735325/
+19:28:05	Warning: 	File has moved from https://hypixel.net/posts/36735325/ to https://hypixel.net/threads/when-will-the-brewing-stand-be-able-to-be-used-on-the-private-island.5117341/#post-36735325
+19:28:29	Error: 	Exit requested by shell or user
+19:28:29	Warning: 	File not added due to mirror cancel: https://hypixel.net/profile-posts/1752530/reactions?reaction_id=11
+19:28:30	Warning: 	Moved Permanently for https://hypixel.net/posts/36735317/
+19:28:30	Warning: 	File has moved from https://hypixel.net/posts/36735317/ to https://hypixel.net/threads/best-talisman-power-for-melee-damage.5117340/#post-36735317
+19:28:30	Warning: 	Moved Permanently for https://hypixel.net/posts/36735313/
+19:28:30	Warning: 	File has moved from https://hypixel.net/posts/36735313/ to https://hypixel.net/threads/which-should-i-change-my-pfp-to.5117339/#post-36735313
+19:28:30	Error: 	"Too Many Requests" (429) at link https://hypixel.net/posts/36735311/ (from https://hypixel.net/)
+19:28:30	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/malukakun.6108478/ (from https://hypixel.net/)
+19:28:30	Warning: 	Moved Permanently for https://hypixel.net/posts/36735310/
+19:28:30	Warning: 	File has moved from https://hypixel.net/posts/36735310/ to https://hypixel.net/threads/how-do-i-do-about-100k-damage-outside-of-dungeons.5117337/#post-36735310
+19:28:31	Warning: 	Moved Permanently for https://hypixel.net/posts/36735300/
+19:28:31	Warning: 	File has moved from https://hypixel.net/posts/36735300/ to https://hypixel.net/threads/how-to-be-good-at-game.5117335/#post-36735300
+19:28:31	Warning: 	Moved Permanently for https://hypixel.net/posts/36735280/
+19:28:31	Warning: 	File has moved from https://hypixel.net/posts/36735280/ to https://hypixel.net/threads/why-are-people-even-allowed-to-sell-gemstones-to-the-npc-controversial.5117333/#post-36735280
+19:28:31	Warning: 	Moved Permanently for https://hypixel.net/posts/36735268/
+19:28:31	Warning: 	File has moved from https://hypixel.net/posts/36735268/ to https://hypixel.net/threads/suggestions.5117330/#post-36735268
+19:28:31	Error: 	"Not Found" (404) at link https://hypixel.net/-/index.rss (from https://hypixel.net/)
+19:28:31	Error: 	"Too Many Requests" (429) at link https://hypixel.net/account/dismiss-notice (from https://hypixel.net/)
+19:28:31	Error: 	"Too Many Requests" (429) at link https://hypixel.net/help/cookies (from https://hypixel.net/)
+19:28:32	Error: 	"Forbidden" (403) at link https://hypixel.net/members/brandonjja.1793253/ (from https://hypixel.net/?page=2)
+19:28:33	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/new-ptl-game-dropper.5021136/ (from https://hypixel.net/?page=2)
+19:28:34	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/bug-fixes-june-2022.4995586/ (from https://hypixel.net/?page=2)
+19:28:34	Warning: 	Moved Permanently for https://hypixel.net/threads/4991452/
+19:28:34	Warning: 	File has moved from https://hypixel.net/threads/4991452/ to https://hypixel.net/threads/june-22-recent-bug-fixes.4991452/
+19:28:34	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/orangemarshall.21118/ (from https://hypixel.net/?page=2)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/murder-mystery/ (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/arcade-games (from https://hypixel.net/play/)
+19:28:35	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/RgtALX4stYI/default.jpg (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/uhc-champions (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/build-battle (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/cops-and-crims (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/duels (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/megawalls (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/quakecraft/ (from https://hypixel.net/play/)
+19:28:35	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/ZHGPutsvO8s/default.jpg (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/tnt-games (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/vampirez/ (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/warlords/ (from https://hypixel.net/play/)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/skywars/leaderboard (from https://hypixel.net/players)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/arcade-games/leaderboard (from https://hypixel.net/players)
+19:28:35	Error: 	"Too Many Requests" (429) at link https://hypixel.net/arena-brawl/leaderboard (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/cops-and-crims/leaderboard (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/megawalls/leaderboard (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/quakecraft/leaderboard (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/smash-heroes/leaderboard (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/tnt-games/leaderboard/tntrun (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/tnt-games/leaderboard/bowspleef (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/tnt-games/leaderboard/tnttag (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/vampirez/leaderboard (from https://hypixel.net/players)
+19:28:36	Error: 	"Too Many Requests" (429) at link https://hypixel.net/warlords/leaderboard (from https://hypixel.net/players)
+19:28:37	Error: 	"Not Found" (404) at link https://hypixel.net/threads/update-mandatory-microsoft-account-migration.4805155/page-31#post-36731731 (from https://hypixel.net/forums/)
+19:28:37	Error: 	"Not Found" (404) at link https://hypixel.net/threads/forum-moderation-insights-and-updates.4294289/#post-36734312 (from https://hypixel.net/forums/)
+19:28:37	Warning: 	Moved Permanently for https://hypixel.net/link-forums/report-rule-breakers.192/
+19:28:37	Warning: 	File has moved from https://hypixel.net/link-forums/report-rule-breakers.192/ to https://support.hypixel.net/article/89
+19:28:37	Error: 	"Too Many Requests" (429) at link https://hypixel.net/categories/skyblock.194/ (from https://hypixel.net/forums/)
+19:28:37	Error: 	"Too Many Requests" (429) at link https://hypixel.net/skyblock-bugs (from https://hypixel.net/forums/)
+19:28:37	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/skyblock-patch-notes.158/ (from https://hypixel.net/forums/)
+19:28:37	Warning: 	Moved Permanently for https://hypixel.net/link-forums/bug-reports.160/
+19:28:37	Warning: 	File has moved from https://hypixel.net/link-forums/bug-reports.160/ to https://hypixel.net/forums/skyblock-bug-reports.159/
+19:28:37	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/skyblock-general-discussion.157/ (from https://hypixel.net/forums/)
+19:28:37	Warning: 	Moved Permanently for https://hypixel.net/link-forums/bug-reports.213/
+19:28:37	Warning: 	File has moved from https://hypixel.net/link-forums/bug-reports.213/ to https://hypixel.net/bug-reports/create?server_ip=alpha.hypixel.net
+19:28:37	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/skyblock-community-help.196/ (from https://hypixel.net/forums/)
+19:28:38	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/skyblock-off-topic.198/ (from https://hypixel.net/forums/)
+19:28:38	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/official-weapons-tierlist.5116853/post-36735379 (from https://hypixel.net/forums/)
+19:28:38	Warning: 	Moved Permanently for https://hypixel.net/link-forums/hypixel-smp-closed-beta.208/
+19:28:38	Warning: 	File has moved from https://hypixel.net/link-forums/hypixel-smp-closed-beta.208/ to https://hypixel.net/threads/4148364/
+19:28:38	Warning: 	Moved Permanently for https://hypixel.net/link-forums/smp-suggestions.209/
+19:28:38	Warning: 	File has moved from https://hypixel.net/link-forums/smp-suggestions.209/ to https://hypixel.net/forums/ideas-and-feedback.38/?prefix_id=82
+19:28:38	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/countries-smp-reborn-1-19-2-active-and-with-custom-items-megathread.5032061/page-23#post-36735101 (from https://hypixel.net/forums/)
+19:28:39	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/idea-wool-wars-modes.5087229/post-36735127 (from https://hypixel.net/forums/)
+19:28:39	Error: 	"Forbidden" (403) at link https://hypixel.net/members/curryting.5085234/ (from https://hypixel.net/forums/)
+19:28:39	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/how-to-be-good-at-game.5117335/#post-36735363 (from https://hypixel.net/forums/)
+19:28:39	Warning: 	Moved Permanently for https://hypixel.net/link-forums/skywars-suggestions.167/
+19:28:39	Warning: 	File has moved from https://hypixel.net/link-forums/skywars-suggestions.167/ to https://hypixel.net/forums/38/?prefix_id=48
+19:28:39	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/24-star.5110951/#post-36735198 (from https://hypixel.net/forums/)
+19:28:39	Warning: 	Moved Permanently for https://hypixel.net/link-forums/murder-mystery-suggestions.168/
+19:28:39	Warning: 	File has moved from https://hypixel.net/link-forums/murder-mystery-suggestions.168/ to https://hypixel.net/forums/38/?prefix_id=49
+19:28:39	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/player-count-in-assassins.5116144/#post-36732530 (from https://hypixel.net/forums/)
+19:28:39	Warning: 	Moved Permanently for https://hypixel.net/link-forums/housing-suggestions.169/
+19:28:39	Warning: 	File has moved from https://hypixel.net/link-forums/housing-suggestions.169/ to https://hypixel.net/forums/38/?prefix_id=50
+19:28:39	Error: 	"Not Found" (404) at link https://hypixel.net/threads/l-h.5115578/#post-36735354 (from https://hypixel.net/forums/)
+19:28:39	Warning: 	Moved Permanently for https://hypixel.net/link-forums/build-battle-suggestions.170/
+19:28:39	Warning: 	File has moved from https://hypixel.net/link-forums/build-battle-suggestions.170/ to https://hypixel.net/forums/38/?prefix_id=51
+19:28:40	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/technoblade-never-dies.5052018/page-2#post-36734985 (from https://hypixel.net/forums/)
+19:28:40	Warning: 	Moved Permanently for https://hypixel.net/link-forums/arcade-games-suggestions.188/
+19:28:40	Warning: 	File has moved from https://hypixel.net/link-forums/arcade-games-suggestions.188/ to https://hypixel.net/forums/38/?prefix_id=52
+19:28:40	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/where-find-zombies-community.5101171/post-36730604 (from https://hypixel.net/forums/)
+19:28:41	Warning: 	Moved Permanently for https://hypixel.net/link-forums/report-ptl-bugs-here.134/
+19:28:41	Warning: 	File has moved from https://hypixel.net/link-forums/report-ptl-bugs-here.134/ to https://hypixel.net/forums/35/
+19:28:41	Warning: 	Moved Permanently for https://hypixel.net/link-forums/prototype-games-suggestions.171/
+19:28:41	Warning: 	File has moved from https://hypixel.net/link-forums/prototype-games-suggestions.171/ to https://hypixel.net/forums/38/?prefix_id=53
+19:28:41	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/pixel-party/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/game-duels.125/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/archived-patch-notes.132/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/game-battle-royale.149/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/game-hypixel-bedwars.124/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/game-hypixel-zombies.140/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/archived-patch-notes.133/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Not Found" (404) at link https://hypixel.net/threads/suggestion-difficulty-modes.5116747/#post-36730008 (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/tnt-games/ (from https://hypixel.net/forums/)
+19:28:42	Warning: 	Moved Permanently for https://hypixel.net/link-forums/tnt-games-suggestions.172/
+19:28:42	Warning: 	File has moved from https://hypixel.net/link-forums/tnt-games-suggestions.172/ to https://hypixel.net/forums/38/?prefix_id=54
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/bad-anti-cheat-and-hackers.5100524/page-2#post-36727599 (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/the-pit/ (from https://hypixel.net/forums/)
+19:28:42	Warning: 	Moved Permanently for https://hypixel.net/link-forums/the-pit-suggestions.174/
+19:28:42	Warning: 	File has moved from https://hypixel.net/link-forums/the-pit-suggestions.174/ to https://hypixel.net/forums/38/?prefix_id=56
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/do-they-care-about-this-game-at-all.5116432/post-36735308 (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/uhc/ (from https://hypixel.net/forums/)
+19:28:42	Warning: 	Moved Permanently for https://hypixel.net/link-forums/uhc-champions-suggestions.175/
+19:28:42	Warning: 	File has moved from https://hypixel.net/link-forums/uhc-champions-suggestions.175/ to https://hypixel.net/forums/38/?prefix_id=57
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/speed-uhc/ (from https://hypixel.net/forums/)
+19:28:42	Warning: 	Moved Permanently for https://hypixel.net/link-forums/speed-uhc-suggestions.187/
+19:28:42	Warning: 	File has moved from https://hypixel.net/link-forums/speed-uhc-suggestions.187/ to https://hypixel.net/forums/38/?prefix_id=69
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/wudze.1934208/ (from https://hypixel.net/forums/)
+19:28:42	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/what-do-we-need-to-keep-this-game-alive.5117167/#post-36735362 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/classic-lobby/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/link-forums/the-walls-suggestions.176/ (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/quakecraft-suggestions.177/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/quakecraft-suggestions.177/ to https://hypixel.net/forums/38/?prefix_id=59
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/vampirez-suggestions.178/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/vampirez-suggestions.178/ to https://hypixel.net/forums/38/?prefix_id=60
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/paintball-suggestions.179/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/paintball-suggestions.179/ to https://hypixel.net/forums/38/?prefix_id=61
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/link-forums/arena-brawl-suggestions.180/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/tkr/ (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/turbo-kart-racers-suggestions.181/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/turbo-kart-racers-suggestions.181/ to https://hypixel.net/forums/38/?prefix_id=63
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/dhuragin.2940277/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/ded-game.5112226/post-36734896 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/mega-walls/ (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/mega-walls-suggestions.182/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/mega-walls-suggestions.182/ to https://hypixel.net/forums/38/?prefix_id=64
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/60ld6uy.1838380/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/wtf-happened-to-mw.5116702/#post-36734773 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/blitz-sg/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/link-forums/blitz-sg-suggestions.183/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Not Found" (404) at link https://hypixel.net/threads/what-do-you-do-as-an-early-game-blitz-player.5114328/#post-36733390 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/cvc/ (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/cops-and-crims-suggestions.184/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/cops-and-crims-suggestions.184/ to https://hypixel.net/forums/38/?prefix_id=66
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/tisfortiger.3309916/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/the-true-best-tier-list.5112435/#post-36722292 (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/smash-heroes-suggestions.185/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/smash-heroes-suggestions.185/ to https://hypixel.net/forums/38/?prefix_id=67
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/how-would-you-unbalance-the-roster.5106041/post-36734920 (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/warlords-suggestions.186/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/warlords-suggestions.186/ to https://hypixel.net/forums/38/?prefix_id=68
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/warlords-discord.5116334/post-36733938 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/duels/ (from https://hypixel.net/forums/)
+19:28:43	Warning: 	Moved Permanently for https://hypixel.net/link-forums/duels-suggestions.173/
+19:28:43	Warning: 	File has moved from https://hypixel.net/link-forums/duels-suggestions.173/ to https://hypixel.net/forums/38/?prefix_id=55
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/its_complicated.6040945/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/getting-a-winstreak.5116039/#post-36735355 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/link-forums/guide-allowed-modifications.228/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/lopen.738655/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/updated-19-july-all-forum-ratings-leaderboard-received-and-given.4320669/post-36735370 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/kokacat.2374326/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/how-to-donate-in-russia.5117087/page-2#post-36735352 (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/chopin.758680/ (from https://hypixel.net/forums/)
+19:28:43	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/small-gamerule-idea.5115834/post-36735243 (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/civilsystem.3871153/ (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/%E2%9C%A7-moon-moon-night-%E2%98%BD-friendlycommunity-low-reqs-14-discord-all-games-casual-guild-%E2%9C%A7.4766619/page-27#post-36734533 (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/venusaur.3528331/ (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/what-makes-us-human.5116962/page-3#post-36735374 (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/members/osmanlisultan.6140749/ (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/introducing-yourself-guide.3385902/post-36734671 (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/threads/hypemc-guild-september-event-calendar.5099779/#post-36725237 (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/community-creations.191/ (from https://hypixel.net/forums/)
+19:28:44	Error: 	"Too Many Requests" (429) at link https://hypixel.net/forums/art-gallery.85/ (from https://hypixel.net/forums/)
+19:28:44	Error: 	Exit requested by shell or user
+19:28:44	Error: 	"" (-1) at link https://hypixel.net/forums/custom-maps-showcase.16/ (from https://hypixel.net/forums/)
+19:28:44	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 41 seconds : 2170 links scanned, 1384 files written (161245550 bytes overall) [87309644 bytes received at 167580 bytes/sec], 92141758 bytes transferred using HTTP compression in 824 files, ratio 13%, 23.3 requests per connection
+(114 errors, 75 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
